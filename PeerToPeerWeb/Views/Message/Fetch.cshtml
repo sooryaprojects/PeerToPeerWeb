@@ -1,0 +1,16 @@
+﻿
+@{
+    ViewData["Title"] = "Fetch";
+}
+<div class="text-center">
+    <h1>Fetched Data From Queue</h1>
+    <P>@ViewData["Data"]</P>
+    <a href="@ViewData["Link"]" target="_blank">See Content</a>
+    <br>
+    <br>
+    <br>
+    @Html.ActionLink("Compose Message", "Compose")
+    <br>
+    <br>
+    @Html.ActionLink("Sign Out", "SignOut")
+</div>

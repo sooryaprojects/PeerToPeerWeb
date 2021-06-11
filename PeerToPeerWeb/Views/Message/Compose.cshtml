@@ -1,0 +1,44 @@
+﻿@model PeerToPeerWeb.Models.MessageModel;
+@{
+    ViewData["Title"] = "Compose";
+}
+
+<div class="text-center">
+    <h1>Compose your Message</h1>
+    @using (Html.BeginForm("SendMessage", "Message", FormMethod.Post, new
+    {
+        enctype = "multipart/form-data"
+    }))
+    {
+        <form>
+            <div>
+                @Html.TextBoxFor(model => model.Message)
+
+                @Html.TextBoxFor(model => model.FileName, new { type = "file" })
+
+                <input type="submit" id="submitId" value="Send" />
+
+            </div>
+        </form>
+    }
+
+    <br>
+    <br>
+    <br>
+
+    @Html.ActionLink("Watch Messages", "Fetch")
+    <br>
+    <br>
+    @Html.ActionLink("Sign Out", "SignOut")
+</div>
+
+<script>
+
+    function SendMessage() {
+        // var message = $("#Message").val();
+        //aler(message)
+        $.get("/Message/SendMessage/Hello");
+    }
+
+
+</script>

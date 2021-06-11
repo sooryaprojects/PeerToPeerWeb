@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "p2pmessaging-315922",
+  "private_key_id": "7977db39d788240237053e16668a83098e86dbc0",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCww87AGanDE6S9\n/vdShctwgWl7/SZGqdkBKiyQrjTPwUtO4jaPS2p0rwKXgnD4C5tuW72ZABQ6HrPA\nDH94pEQcuxshoIb3b+N22ZAQlRQlx2FdfAq9kLBHrGpjn/zTaJIA8+FGuNPlys4L\nbS3VG7crSpwjGuq0+FjCyDXteYby+D/f7VPT/Av1CBQVmoAiit1cn6ehPMjGjr5b\nCkgd/WBFHgea2YyplxAAqRgsE4JR3NBGdQx6bVnSSs/tegXRAVZoVlwdKg50BsVP\n458rucVshiHsOusckMfcTW/+LagNxuN8YOIm1WrYNysXILk0SONRmoAFfmHXEJ7k\ndoSXo2VhAgMBAAECggEABSQXwXdpnB9oUmCNzMYQhvfTk6Am5qWaVq3lZIqVhYCU\nnjFm9vNRf/3mTlXkT1mGkm7LgI17mR5jGdP/Odj0tG12bjuhC0WjPOXaWlocnzXp\nmXaB6TYh417CzB2XRMaI/ws4x0XZP1je9d79txHOma0qhfyanItvyO/53guTmsHE\nVLsgdiEepunA0UErwJYtpnAtJ4kJ6SlbFPoHm3qzpXEohh4WqY8wSBazedFvmbYy\nFKUDR401tvpWPCLbFRCdTYohumqqSzamqDBCgDv8C0dh6T6SGF8HFyWSIAkFzgZS\n7HkSz7cPUV+jNBDUtXzg6d5KVxLt4tbUOSqhOhzTgQKBgQDg3GgEc7HTcl/NSN3B\nIbuH3Qrt/dc8X3dodkfE/aMiIB0xRohikCAPlmzQxyTyvEp+m1nomMqbz9QjNrFU\n/DM/tyeqHO0YqZ3M7fCTqI+0vt5hKDbDvkCYnaxyilzyyG1LPZjXEVClOY2eeQ5J\nQOimxwnFqKHxk1sJrjh/7T/yoQKBgQDJPlYvGW5wE3Z52kdgY+4q+4dh8tBoBS2d\nYoht69ajKJ0mxsy9qMRCNsfq0deyixkEIpxuNDhPITRwxAjizfqwOCmhlWkCmY3u\nSgDacLUP4QvlcsmO4szcgzJgNqjy+qyP65PrLj+oUwcNFMvDPN9uaXs4E6TIEOlx\nUY9l7lU6wQKBgQDANgfATnliivEzlKbiUYhxMdUG7SaQV/bFV94vmLRbFmJ93ZH1\n1sdhK6+mo6SEzclMAlXPitQeboAi/byGLfNM8q44LvPJUiwuofI09jCpS0LigDKY\nDkg/bQCdBINBkWxDlcrRhN6P7euN3GMG4TI+ZgOHb4fG7bQzSTbIu7AfIQKBgHMW\nEiV3TsALcVq4KM+H9oFgPQkX2nVSWMbDva/XCnVeWZj+YcIozKvtNiElBkyV3aWO\nwZUIihc+rwW6JjbGgxHZ3H0Ku/X/qLpYWeqSQAmnsqzyGzB6pZuJ7/oz6CSklKDt\noTcCyObTLJofhXPO0RwMeKoWGctMWKQ0d2RciyNBAoGADI4M2j8AJevFSsD8qRBj\nKU8sRKnNsqccNZ559PYM0zqFlNWwvon0o5M/7jV4SqxUUwoJaTnct24/Wjh/uQq1\ng9I6Isaqm3pkFprvh7JqZ2jyuTpOjwbevkTRNfnF2bSQD5ZqrqaBtAs4K9Yo5Y9x\nDqnbpyOWc7DOdMYfJwYfxSE=\n-----END PRIVATE KEY-----\n",
+  "client_email": "p2pmessaging@p2pmessaging-315922.iam.gserviceaccount.com",
+  "client_id": "100593639569057422892",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/p2pmessaging%40p2pmessaging-315922.iam.gserviceaccount.com"
+}
